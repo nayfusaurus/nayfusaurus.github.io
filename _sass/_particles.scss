@@ -53,6 +53,32 @@
   white-space: nowrap;
 }
 
+.particles-iconthm {
+  margin: 1.0em;
+  pointer-events: all;
+
+  svg {
+    -webkit-transform: scale(1.8);
+    transform: scale(1.8);
+  }
+
+  svg circle,
+  svg path {
+    stroke: var(--color-particles-text) !important;
+    stroke-width: 0.01em;
+  }
+
+  &:focus,
+  &:hover {
+    border: none;
+
+    svg circle,
+    svg path {
+      stroke-width: 0.075em;
+    }
+  }
+}
+
 .particles-icon {
   margin: 0 0.5em;
   pointer-events: all;
@@ -95,5 +121,55 @@
   svg {
     -webkit-transform: scale(2.7);
     transform: scale(2.7);
+  }
+}
+
+.particles-iconctf {
+  margin: 1.0em;
+  pointer-events: all;
+
+  svg {
+    -webkit-transform: scale(1.8);
+    transform: scale(1.8);
+  }
+
+  svg circle,
+  svg path {
+    stroke: var(--color-particles-text) !important;
+  }
+
+  &:focus,
+  &:hover {
+    border: none;
+
+    svg circle,
+    svg path {
+      stroke-width: 0.01em;
+    }
+  }
+}
+
+.particles-iconscrum {
+  margin: 1.0em;
+  pointer-events: all;
+
+  svg {
+    -webkit-transform: scale(2.4);
+    transform: scale(2.4);
+  }
+
+  svg circle,
+  svg path {
+    stroke: var(--color-particles-text) !important;
+  }
+
+  &:focus,
+  &:hover {
+    border: none;
+
+    svg circle,
+    svg path {
+      stroke-width: 0.03em;
+    }
   }
 }

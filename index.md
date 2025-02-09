@@ -3,16 +3,18 @@ layout: home
 title: Home
 ---
 
-# About
+# About Me
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Yo! 👋 I'm Sufyan, a seasoned cybersecurity professional with a passion for protecting digital landscapes with over three years of hands-on experience. My passion for ethical hacking and penetration testing drives me to continuously explore innovative ways to identify vulnerabilities before they can be exploited by adversaries.
 
-This is the home page. It can be used for a short introduction. [Click here](cv) to see the full CV, and [here](assets/files/cv.pdf) to download a print version. The theme also ships with a blog: [click here](posts) to scroll posts from the most recent. Finally, [click here](404) to see a page that can't be found.
+# Digital Spark
 
-By default, the theme only contains these few pages in order to stay lean and flexible. However, it can be easily extended to accommodate more pages, [collections](https://jekyllrb.com/docs/collections/), [categories, and tags](https://jekyllrb.com/docs/posts/#tags-and-categories).
+My first coding experience was back in primary school, where my teacher brought my class to the computer lab. There I found out about neopets, an online virtual pet game. One of the features included, creating a guild where I was able to decorate it using HTML and CSS. Although it was rudimentary, it sparked my interest in coding.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Beyond Code
 
-Below is a list of blog posts included for illustrative purposes. Make sure to delete or modify them before deploying your website.
+Gaming has always been a significant part of my life, offering not only entertainment but also the opportunity to sharpen problem-solving skills, strategic thinking, and creativity. Over the years, I've immersed myself in a variety of games that challenge my mind and push me to think outside the box. Notable favourites are Total War series, Company of Heroes and Sea of Thieves.
 
-{% include archive.html %}
+# Let’s Connect!
+
+Whether it's about a project collaboration, asking questions, or just saying hi, I'm here! Find me on LinkedIn and GitHub.
